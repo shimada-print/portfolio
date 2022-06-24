@@ -10,7 +10,8 @@ author: You
 見出し  
 #が１つがH1。２つがH2。３つがH3。４つがH4。５つがH5。６つがH6です。  
 
-# abut Markdown
+# Markdown Examples
+H1は唯一であり、題名になるので、最上部に表示されます。
 
 ## h2 Heading
 
