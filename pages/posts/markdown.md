@@ -34,11 +34,12 @@ _This is italic text_
 ~~Strikethrough~~
 
 ## Blockquotes
->引用
+＞ 引用
 > Develop. Preview. Ship. – Vercel
 
 ## Lists
 -一覧
+
 Unordered
 
 - Lorem ipsum dolor sit amet
@@ -46,6 +47,7 @@ Unordered
 - Integer molestie lorem at massa
 
 Ordered
+1.など
 
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
