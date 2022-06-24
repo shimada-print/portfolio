@@ -10,7 +10,7 @@ author: You
 見出し  
 #が１つがH1。２つがH2。３つがH3。４つがH4。５つがH5。６つがH6です。  
 
-# Markdown Examples
+# abut Markdown
 
 ## h2 Heading
 
@@ -30,15 +30,15 @@ author: You
 _ 斜体
 _This is italic text_
 
-~~　打消し
+~~ 打消し
 ~~Strikethrough~~
 
 ## Blockquotes
-
+>引用
 > Develop. Preview. Ship. – Vercel
 
 ## Lists
-
+-一覧
 Unordered
 
 - Lorem ipsum dolor sit amet
@@ -81,6 +81,9 @@ export default function Nextra({ Component, pageProps }) {
 ```
 
 ## Tables
+|　枠
+**太字
+--水平線
 
 | **Option** | **Description**                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -89,7 +92,7 @@ export default function Nextra({ Component, pageProps }) {
 | Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
 
 ## Links
-
+［リンク先の文字］（URL）
 - [Next.js](https://nextjs.org)
 - [Nextra](https://nextra.vercel.app/)
 - [Vercel](http://vercel.com)
