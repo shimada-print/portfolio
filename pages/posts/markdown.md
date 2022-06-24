@@ -5,6 +5,10 @@ description: View examples of all possible Markdown options.
 tag: web development
 author: You
 ---
+マークダウン記法とは、HTMLタグよりも簡単に、記号などのみで表記できる方法です。  
+
+見出し  
+#が１つがH1。２つがH2。３つがH3。４つがH4。５つがH5。６つがH6です。  
 
 # Markdown Examples
 
@@ -20,10 +24,13 @@ author: You
 
 ## Emphasis
 
+** 太字
 **This is bold text**
 
+_ 斜体
 _This is italic text_
 
+~~　打消し
 ~~Strikethrough~~
 
 ## Blockquotes
