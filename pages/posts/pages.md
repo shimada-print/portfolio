@@ -3,10 +3,12 @@ title: Next.js Pages
 date: 2021/3/18
 description: Learn more about Next.js pages.
 tag: web development
-author: You
+author: shimada_print
 ---
 
 # Next.js Pages
+
+Next.jsでは、**ページ**は `.js`、` .jsx`、 `からエクスポートされた[Reactコンポーネント]（https://reactjs.org/docs/components-and-props.html）です。 .ts`、または`pages`ディレクトリの`.tsx`ファイル。各ページは、ファイル名に基づいてルートに関連付けられています。
 
 In Next.js, a **page** is a [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
 
