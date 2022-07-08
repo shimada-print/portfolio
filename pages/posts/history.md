@@ -35,7 +35,7 @@
 * 2005年頃から国内外・株（IPOを含む）、FX、ワラントなどの投資を開始
 * 2006年頃からブログを開始
 * 2010年頃からSNSを開始
-* 2015年頃からWodrPressの使用を開始（2022年頃に無料提供が終了のために[https://docusaurus-2-shimada-print-1.vercel.app/blog React製サイト]などに変更）
+* 2015年頃からWodrPressの使用を開始（2022年頃に無料提供が終了のために React製サイト https://docusaurus-2-shimada-print-1.vercel.app/blog などに変更）
 * 2015年頃から仮想通貨の勉強を開始
 * 2015年頃からYoutubeに投稿開始
 * 2015年頃から2020年頃あたりにPythonやNode.jsなどを使用開始（昔よりモダンは数が多いので記憶が曖昧）
@@ -45,5 +45,5 @@
 * 2021年12月頃からGoogleマップに載せる写真を撮影し出す
 * 2022年4月に個人事業主になる（なぜ今までならなかった？と思っている）
 * 2022年6月頃からMarkdownで技術系なブログのZennで投稿開始
-* 2022年6月頃からGitHubとNext.jsのデプロイ公式サイトを使用し[https://docusaurus-2-shimada-print-1.vercel.app/ コンサルティングサイト]を作成
+* 2022年6月頃からGitHubとNext.jsのデプロイ公式サイトを使用し コンサルティングサイトhttps://docusaurus-2-shimada-print-1.vercel.app/ を作成
 * 2022年7月7日現在、Googleマップに載せる写真は約548枚、閲覧数は約22万で他のSNSやブログより多い⋯
