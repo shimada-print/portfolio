@@ -152,12 +152,3 @@ https://github.com/shimada-print/
 
 * Next.jsなどで開発しています
 * 以下のようなWindowsプログラムのVBScriptも置いてあります
-<syntaxhighlight lang="vbscript">
-Option Explicit
-
-Dim strMessage
-
-strMessage = "今の時代はフレームワークで簡単にプログラミングが出来ますが、" & vbCrLf & "集客は①キャッチフレーズ→②プリレンダー→③デザインセンスです。"
-
-MsgBox strMessage
-</syntaxhighlight>
